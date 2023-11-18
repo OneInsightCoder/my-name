@@ -1,0 +1,19 @@
+.profileap {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+.profile ul {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.profile tr img {
+    height: 200px;
+    width: 200px;
+}
+
+.profile table {
+    margin:auto
+}
